@@ -1,0 +1,7 @@
+C:\Users\asus\Source\Repos\Assesment1\Reverseinteger\bin\Debug\Reverseinteger.exe.config
+C:\Users\asus\Source\Repos\Assesment1\Reverseinteger\bin\Debug\Reverseinteger.exe
+C:\Users\asus\Source\Repos\Assesment1\Reverseinteger\bin\Debug\Reverseinteger.pdb
+C:\Users\asus\Source\Repos\Assesment1\Reverseinteger\obj\Debug\Reverseinteger.csproj.AssemblyReference.cache
+C:\Users\asus\Source\Repos\Assesment1\Reverseinteger\obj\Debug\Reverseinteger.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\Assesment1\Reverseinteger\obj\Debug\Reverseinteger.exe
+C:\Users\asus\Source\Repos\Assesment1\Reverseinteger\obj\Debug\Reverseinteger.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\Source\Repos\Assesment1\IntersectionArray\bin\Debug\IntersectionArray.exe.config
+C:\Users\asus\Source\Repos\Assesment1\IntersectionArray\bin\Debug\IntersectionArray.exe
+C:\Users\asus\Source\Repos\Assesment1\IntersectionArray\bin\Debug\IntersectionArray.pdb
+C:\Users\asus\Source\Repos\Assesment1\IntersectionArray\obj\Debug\IntersectionArray.csproj.AssemblyReference.cache
+C:\Users\asus\Source\Repos\Assesment1\IntersectionArray\obj\Debug\IntersectionArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\Assesment1\IntersectionArray\obj\Debug\IntersectionArray.exe
+C:\Users\asus\Source\Repos\Assesment1\IntersectionArray\obj\Debug\IntersectionArray.pdb

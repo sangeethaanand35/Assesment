@@ -1,0 +1,7 @@
+C:\Users\asus\Source\Repos\Assesment1\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe.config
+C:\Users\asus\Source\Repos\Assesment1\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe
+C:\Users\asus\Source\Repos\Assesment1\RemoveDuplicates\bin\Debug\RemoveDuplicates.pdb
+C:\Users\asus\Source\Repos\Assesment1\RemoveDuplicates\obj\Debug\RemoveDuplicates.csproj.AssemblyReference.cache
+C:\Users\asus\Source\Repos\Assesment1\RemoveDuplicates\obj\Debug\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\Assesment1\RemoveDuplicates\obj\Debug\RemoveDuplicates.exe
+C:\Users\asus\Source\Repos\Assesment1\RemoveDuplicates\obj\Debug\RemoveDuplicates.pdb
