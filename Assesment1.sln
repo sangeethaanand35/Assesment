@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assesment1", "Assesment1\Assesment1.csproj", "{B56A118F-F368-49F9-96EF-66EA0845552D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringRotation", "StringRotation\StringRotation.csproj", "{4BDBCABB-0AEE-4998-BFBF-7397C5CB2E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacentDuplicates", "AdjacentDuplicates\AdjacentDuplicates.csproj", "{B8FAF93F-D400-4B27-BA09-CA5B1FFBC44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringRotation2", "StringRotation2\StringRotation2.csproj", "{2E5BA1DF-C689-4189-8B91-E1603520D882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{525E0AD4-5095-48A3-8562-9BFFF5BBCCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionArray", "IntersectionArray\IntersectionArray.csproj", "{CC6D4D00-4EC1-4192-9A73-621222A54776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverseinteger", "Reverseinteger\Reverseinteger.csproj", "{8E25F206-55AF-4319-9016-8703C5701824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{1E5F2374-988A-4F98-993A-1BCAC9F85268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSeries", "FibonacciSeries\FibonacciSeries.csproj", "{8298D431-BE59-4985-8DBB-97A6093136B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubsequence", "LongestSubsequence\LongestSubsequence.csproj", "{7E653698-A6AC-45B4-9433-135CFDCE887A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildcardMatching", "..\WildcardMatching\WildcardMatching.csproj", "{FB852890-7A4F-4CB6-B78F-6628A7C9B104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56A118F-F368-49F9-96EF-66EA0845552D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56A118F-F368-49F9-96EF-66EA0845552D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56A118F-F368-49F9-96EF-66EA0845552D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56A118F-F368-49F9-96EF-66EA0845552D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDBCABB-0AEE-4998-BFBF-7397C5CB2E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDBCABB-0AEE-4998-BFBF-7397C5CB2E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDBCABB-0AEE-4998-BFBF-7397C5CB2E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDBCABB-0AEE-4998-BFBF-7397C5CB2E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FAF93F-D400-4B27-BA09-CA5B1FFBC44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FAF93F-D400-4B27-BA09-CA5B1FFBC44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FAF93F-D400-4B27-BA09-CA5B1FFBC44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FAF93F-D400-4B27-BA09-CA5B1FFBC44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5BA1DF-C689-4189-8B91-E1603520D882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5BA1DF-C689-4189-8B91-E1603520D882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5BA1DF-C689-4189-8B91-E1603520D882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5BA1DF-C689-4189-8B91-E1603520D882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525E0AD4-5095-48A3-8562-9BFFF5BBCCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525E0AD4-5095-48A3-8562-9BFFF5BBCCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525E0AD4-5095-48A3-8562-9BFFF5BBCCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525E0AD4-5095-48A3-8562-9BFFF5BBCCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6D4D00-4EC1-4192-9A73-621222A54776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6D4D00-4EC1-4192-9A73-621222A54776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6D4D00-4EC1-4192-9A73-621222A54776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6D4D00-4EC1-4192-9A73-621222A54776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E25F206-55AF-4319-9016-8703C5701824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E25F206-55AF-4319-9016-8703C5701824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E25F206-55AF-4319-9016-8703C5701824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E25F206-55AF-4319-9016-8703C5701824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5F2374-988A-4F98-993A-1BCAC9F85268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5F2374-988A-4F98-993A-1BCAC9F85268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5F2374-988A-4F98-993A-1BCAC9F85268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5F2374-988A-4F98-993A-1BCAC9F85268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8298D431-BE59-4985-8DBB-97A6093136B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8298D431-BE59-4985-8DBB-97A6093136B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8298D431-BE59-4985-8DBB-97A6093136B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8298D431-BE59-4985-8DBB-97A6093136B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E653698-A6AC-45B4-9433-135CFDCE887A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E653698-A6AC-45B4-9433-135CFDCE887A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E653698-A6AC-45B4-9433-135CFDCE887A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E653698-A6AC-45B4-9433-135CFDCE887A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB852890-7A4F-4CB6-B78F-6628A7C9B104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB852890-7A4F-4CB6-B78F-6628A7C9B104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB852890-7A4F-4CB6-B78F-6628A7C9B104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB852890-7A4F-4CB6-B78F-6628A7C9B104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82942EBE-2AF1-4BBC-93C4-3033E153F198}
+	EndGlobalSection
+EndGlobal

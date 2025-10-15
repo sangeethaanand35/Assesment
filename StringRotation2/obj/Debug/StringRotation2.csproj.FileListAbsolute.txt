@@ -1,0 +1,7 @@
+C:\Users\asus\Source\Repos\Assesment1\StringRotation2\bin\Debug\StringRotation2.exe.config
+C:\Users\asus\Source\Repos\Assesment1\StringRotation2\bin\Debug\StringRotation2.exe
+C:\Users\asus\Source\Repos\Assesment1\StringRotation2\bin\Debug\StringRotation2.pdb
+C:\Users\asus\Source\Repos\Assesment1\StringRotation2\obj\Debug\StringRotation2.csproj.AssemblyReference.cache
+C:\Users\asus\Source\Repos\Assesment1\StringRotation2\obj\Debug\StringRotation2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\Assesment1\StringRotation2\obj\Debug\StringRotation2.exe
+C:\Users\asus\Source\Repos\Assesment1\StringRotation2\obj\Debug\StringRotation2.pdb
